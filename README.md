@@ -6,11 +6,6 @@
 
 <h3 align="center">Data Engineer | Python | SQL | Big Data | ETL/ELT</h3>
 
-<p align="center">
-  <a href="https://github.com/MustafaMahmoudeHeeba">
-    <img src="https://komarev.com/ghpvc/?username=MustafaMahmoudeHeeba&label=Profile%20Views&color=0e75b6&style=flat" alt="MustafaMahmoudeHeeba" />
-  </a>
-</p>
 
 ---
 
