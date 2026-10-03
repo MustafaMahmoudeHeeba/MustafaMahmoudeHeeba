@@ -1,22 +1,24 @@
 <!--
-**MustafaHeeba/MustafaHeeba** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
+**MustafaMahmoudeHeeba/MustafaMahmoudeHeeba** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 -->
 
 <h1 align="center">Hi 👋, I'm Mustafa Mahmoud</h1>
 
 <h3 align="center">Data Engineer | Python | SQL | Big Data | ETL/ELT</h3>
 
+<p align="center">
+  <a href="https://github.com/MustafaMahmoudeHeeba">
+    <img src="https://komarev.com/ghpvc/?username=MustafaMahmoudeHeeba&label=Profile%20Views&color=0e75b6&style=flat" alt="MustafaMahmoudeHeeba" />
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-<p>
-I'm a <strong>Data Engineer</strong> with hands-on experience in building data pipelines, transforming and processing large datasets, and designing analytics-ready data solutions.
+I'm a **Data Engineer** with hands-on experience in building data pipelines, transforming and processing datasets, and designing analytics-ready data solutions.
 
-My main interests are <strong>Data Engineering, Big Data, Data Warehousing, ETL/ELT, and Data Analytics</strong>.
-
-</p>
+My main interests are **Data Engineering, Big Data, Data Warehousing, ETL/ELT, and Data Analytics**.
 
 * 🎓 B.Sc. Computer Science & AI — Helwan University
 * 📚 Major: Information Systems
@@ -25,7 +27,7 @@ My main interests are <strong>Data Engineering, Big Data, Data Warehousing, ETL/
 * ⚡ Exploring **PySpark, Apache Spark & Kafka**
 * 🗄️ Interested in **Batch & Real-Time Data Processing**
 * 📊 Turning raw data into **analytics-ready datasets and dashboards**
-* 🔍 Passionate about **Data Quality, Data Modeling & Pipeline Reliability**
+* 🔍 Interested in **Data Quality, Data Modeling & Pipeline Reliability**
 * 📍 Cairo, Egypt
 
 ---
@@ -122,7 +124,7 @@ My main interests are <strong>Data Engineering, Big Data, Data Warehousing, ETL/
 
 **Python | Web Scraping | ETL | Data Warehouse | SQL**
 
-* Building a data engineering platform that collects news from multiple sources.
+* Building a Data Engineering platform that collects news from multiple sources.
 * Tracks how articles and stories **change over time**.
 * Captures article metadata, content hashes, categories, and timestamps.
 * Uses **change detection** to identify modified articles.
@@ -156,7 +158,7 @@ My main interests are <strong>Data Engineering, Big Data, Data Warehousing, ETL/
                             │
                             ▼
                  ┌─────────────────────┐
-                 │    Data Ingestion   │
+                 │   Data Ingestion    │
                  │ Kafka / Python /    │
                  │ NiFi / APIs         │
                  └──────────┬──────────┘
@@ -230,7 +232,11 @@ Major: Information Systems | 2023 – 2027 | GPA: 3.24
 
 <p align="center">
 
-<a href="https://github.com/MustafaHeeba">
+<a href="https://mustafa-mahmoud-data-eng-0wwngj1.gamma.site">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<a href="https://github.com/MustafaMahmoudeHeeba">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
