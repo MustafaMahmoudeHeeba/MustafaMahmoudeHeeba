@@ -58,7 +58,6 @@ My main interests are **Data Engineering, Big Data, Data Warehousing, ETL/ELT, a
 
 <img src="https://img.shields.io/badge/ETL%2FELT-Data%20Pipelines-0E75B6?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Data%20Warehouse-Analytics-6A5ACD?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Bronze-Silver-Gold-8A2BE2?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Data%20Quality-Checks-2E8B57?style=for-the-badge" />
 
 </p>
